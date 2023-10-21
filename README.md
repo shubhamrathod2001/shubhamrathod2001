@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamrathod2001&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamrathod" /> </p>
 
-- 🌱 I’m currently learning Web3.0 and blockchain technology *Solidity, Web3.0*
+- 🌱 I’m currently learning Mern Stack.
 
 - 📫 How to reach me *shubham.rathod2001@gmail.com*
 
