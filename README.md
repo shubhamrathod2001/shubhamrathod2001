@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamrathod2001&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamrathod" /> </p>
 
-- 🌱 I’m currently learning Mern Stack.
+- 🌱 I’m currently learning MERN Stack.
 
 - 📫 How to reach me *shubham.rathod2001@gmail.com*
 
